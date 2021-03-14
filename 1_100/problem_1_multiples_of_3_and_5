@@ -8,3 +8,4 @@ for i in range(1000):
 		sum += i
 print(sum)
 # 233168
+# Completed on Tue, 9 Feb 2021, 20:52
